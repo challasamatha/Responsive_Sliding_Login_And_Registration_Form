@@ -58,7 +58,7 @@ CSS3 (Flexbox, Transitions, Media Queries)
 JavaScript (ES6)
 
 📌 Screenshots
-Add screenshots of the login form, register form, and mobile view if available.
+screenshots of the login form, register form, and mobile view.
 ![Screenshot (12)](https://github.com/user-attachments/assets/808fdf28-e307-4fde-af04-471543fee54a) 
 ![Screenshot (13)](https://github.com/user-attachments/assets/2bb97022-33c6-4e0c-8537-ebc00eeba63a)
 ![Screenshot (14)](https://github.com/user-attachments/assets/e25d03d2-d7a9-4a65-a5cb-01904bdfba1d)  
