@@ -2,7 +2,7 @@
 
 This is a responsive and interactive Sliding Login and Registration Form built using HTML, CSS, and Vanilla JavaScript. It features smooth transitions between login and signup forms, optimized for both desktop and mobile devices. 
 
-**Project Link** 
+**Project Link :**
 loginformjscrpt.ccbp.tech
 
 🌟 Features
@@ -45,7 +45,7 @@ Clone the repository or download the ZIP
 bash
 Copy
 Edit
-git clone https://github.com/your-username/responsive-form.git
+https://github.com/challasamatha/Responsive_Sliding_Login_And_Registration_Form.git
 Open index.html in your browser
 
 You can also deploy it using services like Netlify, GitHub Pages, or Vercel
